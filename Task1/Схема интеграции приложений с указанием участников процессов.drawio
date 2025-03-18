@@ -1,0 +1,250 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1">
+  <diagram id="mdtePOvzd1tIlyUVF_1k" name="Страница — 1">
+    <mxGraphModel dx="4412" dy="1865" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="loVT-vGFaFBrZAcRnlc8-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="loVT-vGFaFBrZAcRnlc8-1" target="loVT-vGFaFBrZAcRnlc8-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="loVT-vGFaFBrZAcRnlc8-4" value="Клиент звонит" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="loVT-vGFaFBrZAcRnlc8-3">
+          <mxGeometry x="0.0857" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="loVT-vGFaFBrZAcRnlc8-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="loVT-vGFaFBrZAcRnlc8-1" target="loVT-vGFaFBrZAcRnlc8-33">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="315" y="10" />
+              <mxPoint x="1140" y="10" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="loVT-vGFaFBrZAcRnlc8-58" value="Просмотр маркетинговой информации" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="loVT-vGFaFBrZAcRnlc8-40">
+          <mxGeometry x="-0.1536" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="loVT-vGFaFBrZAcRnlc8-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="loVT-vGFaFBrZAcRnlc8-1" target="loVT-vGFaFBrZAcRnlc8-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="980" y="50" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="loVT-vGFaFBrZAcRnlc8-59" value="проведением платежей и&amp;nbsp;&lt;div&gt;открытием текущих счетов&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="loVT-vGFaFBrZAcRnlc8-41">
+          <mxGeometry x="-0.1138" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="loVT-vGFaFBrZAcRnlc8-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="loVT-vGFaFBrZAcRnlc8-1" target="loVT-vGFaFBrZAcRnlc8-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-360" y="740" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-359" y="70" />
+              <mxPoint x="-359" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="loVT-vGFaFBrZAcRnlc8-55" value="Обращение к сотруднику" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="loVT-vGFaFBrZAcRnlc8-54">
+          <mxGeometry x="0.4715" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="loVT-vGFaFBrZAcRnlc8-1" value="Клиент&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="40" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="loVT-vGFaFBrZAcRnlc8-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="loVT-vGFaFBrZAcRnlc8-2" target="loVT-vGFaFBrZAcRnlc8-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="loVT-vGFaFBrZAcRnlc8-12" value="Данные передаются в систему&lt;div&gt;АБС&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="loVT-vGFaFBrZAcRnlc8-11">
+          <mxGeometry x="-0.1333" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="loVT-vGFaFBrZAcRnlc8-2" value="Кол-центр" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="255" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="loVT-vGFaFBrZAcRnlc8-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="loVT-vGFaFBrZAcRnlc8-5" target="loVT-vGFaFBrZAcRnlc8-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="loVT-vGFaFBrZAcRnlc8-9" value="Обрабатывает входящие&lt;div&gt;звонки&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="loVT-vGFaFBrZAcRnlc8-8">
+          <mxGeometry x="0.1568" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="loVT-vGFaFBrZAcRnlc8-5" value="Сотрудник кол-центра" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="580" y="240" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="loVT-vGFaFBrZAcRnlc8-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="loVT-vGFaFBrZAcRnlc8-10" target="loVT-vGFaFBrZAcRnlc8-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="loVT-vGFaFBrZAcRnlc8-30" value="Уведомление" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="loVT-vGFaFBrZAcRnlc8-27">
+          <mxGeometry x="-0.2464" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="loVT-vGFaFBrZAcRnlc8-10" value="АБС" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="105" y="490" width="420" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="loVT-vGFaFBrZAcRnlc8-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.079;entryY=1.01;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="loVT-vGFaFBrZAcRnlc8-13" target="loVT-vGFaFBrZAcRnlc8-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="138" y="760" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="loVT-vGFaFBrZAcRnlc8-17" value="Работает с данными" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="loVT-vGFaFBrZAcRnlc8-16">
+          <mxGeometry x="-0.228" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="loVT-vGFaFBrZAcRnlc8-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="loVT-vGFaFBrZAcRnlc8-13" target="loVT-vGFaFBrZAcRnlc8-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="loVT-vGFaFBrZAcRnlc8-57" value="Расчетные ставки" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="loVT-vGFaFBrZAcRnlc8-56">
+          <mxGeometry x="-0.2353" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="loVT-vGFaFBrZAcRnlc8-13" value="Менеджер&lt;br&gt;&lt;div&gt;Бэк-офис&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-300" y="720" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="loVT-vGFaFBrZAcRnlc8-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="loVT-vGFaFBrZAcRnlc8-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="520" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-32" y="520" />
+              <mxPoint x="-32" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="loVT-vGFaFBrZAcRnlc8-53" value="Работает с данными" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="loVT-vGFaFBrZAcRnlc8-52">
+          <mxGeometry x="-0.4489" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="loVT-vGFaFBrZAcRnlc8-18" value="Менеджер&lt;br&gt;Фронт-офис" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-300" y="500" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="loVT-vGFaFBrZAcRnlc8-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="loVT-vGFaFBrZAcRnlc8-24" target="loVT-vGFaFBrZAcRnlc8-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="870" y="520" />
+              <mxPoint x="870" y="610" />
+              <mxPoint x="723" y="610" />
+              <mxPoint x="723" y="648" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="loVT-vGFaFBrZAcRnlc8-62" value="проведением платежей и&amp;nbsp;&lt;div&gt;открытием текущих счетов&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="loVT-vGFaFBrZAcRnlc8-60">
+          <mxGeometry x="0.5943" y="-1" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="loVT-vGFaFBrZAcRnlc8-24" value="Интернет-банк" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="loVT-vGFaFBrZAcRnlc8-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="loVT-vGFaFBrZAcRnlc8-25" target="loVT-vGFaFBrZAcRnlc8-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="loVT-vGFaFBrZAcRnlc8-31" value="Уведомление" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="loVT-vGFaFBrZAcRnlc8-29">
+          <mxGeometry x="-0.0667" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="loVT-vGFaFBrZAcRnlc8-25" value="СМС-шлюз&lt;br&gt;телеком оператора" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="loVT-vGFaFBrZAcRnlc8-26" value="Телеком-оператор" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="loVT-vGFaFBrZAcRnlc8-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="loVT-vGFaFBrZAcRnlc8-26" target="loVT-vGFaFBrZAcRnlc8-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="710" y="60" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="loVT-vGFaFBrZAcRnlc8-32" value="Уведомление" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="loVT-vGFaFBrZAcRnlc8-28">
+          <mxGeometry x="-0.6751" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="loVT-vGFaFBrZAcRnlc8-33" value="Сайт" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="loVT-vGFaFBrZAcRnlc8-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="loVT-vGFaFBrZAcRnlc8-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="340" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="160" y="340" />
+              <mxPoint x="310" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="loVT-vGFaFBrZAcRnlc8-34" value="&lt;div&gt;Партнекрский&lt;/div&gt;Кол-центр" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="loVT-vGFaFBrZAcRnlc8-35" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="loVT-vGFaFBrZAcRnlc8-34">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="210" as="sourcePoint" />
+            <mxPoint x="290" y="310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="160" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="loVT-vGFaFBrZAcRnlc8-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="loVT-vGFaFBrZAcRnlc8-36" target="loVT-vGFaFBrZAcRnlc8-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="loVT-vGFaFBrZAcRnlc8-39" value="Обрабатывает входящие&lt;div&gt;звонки&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="loVT-vGFaFBrZAcRnlc8-37">
+          <mxGeometry x="-0.0816" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="loVT-vGFaFBrZAcRnlc8-36" value="Сотрудник партнерского&lt;div&gt;кол-центра&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="240" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="loVT-vGFaFBrZAcRnlc8-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0.1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="loVT-vGFaFBrZAcRnlc8-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1100" y="690" as="sourcePoint" />
+            <mxPoint x="1160" y="550" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1073" y="700" />
+              <mxPoint x="1160" y="700" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="loVT-vGFaFBrZAcRnlc8-49" value="Разработка" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="loVT-vGFaFBrZAcRnlc8-43">
+          <mxGeometry x="0.1587" y="-3" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="loVT-vGFaFBrZAcRnlc8-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="loVT-vGFaFBrZAcRnlc8-42" target="loVT-vGFaFBrZAcRnlc8-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="980" y="700" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="loVT-vGFaFBrZAcRnlc8-47" value="Разработка" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="loVT-vGFaFBrZAcRnlc8-44">
+          <mxGeometry x="0.2273" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="loVT-vGFaFBrZAcRnlc8-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="loVT-vGFaFBrZAcRnlc8-42" target="loVT-vGFaFBrZAcRnlc8-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="loVT-vGFaFBrZAcRnlc8-46" value="Поддержка" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="loVT-vGFaFBrZAcRnlc8-45">
+          <mxGeometry x="-0.2292" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="loVT-vGFaFBrZAcRnlc8-42" value="IT сотдруник" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="690" width="30" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
